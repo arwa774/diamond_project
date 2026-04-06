@@ -1,0 +1,24 @@
+# Dataset (trop lourd pour GitHub)
+data/*.csv
+data/*.xlsx
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Fichiers Jupyter
+.ipynb_checkpoints/
+
+# Fichiers systèmes
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
